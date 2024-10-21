@@ -62,7 +62,7 @@ This command finds and prints the length of the longest line in the file.
 
 ```bash
 awk 'length($0) > 30' input.txt
-'''
+```
 This command prints all lines that contain more than 30 characters.
 
 #### Example Output:
