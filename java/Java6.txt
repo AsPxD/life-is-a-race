@@ -1,0 +1,7 @@
+Hello world!
+This is a sample file.
+
+It has multiple lines,
+and some extra spaces.   
+
+Enjoy testing!
